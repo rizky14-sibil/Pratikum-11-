@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MusicKeyboard" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#2DB86F</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
